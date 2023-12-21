@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rulft</h1>
+<h3 align="center">A passionate art student!</h3>
 
-<!--
-**Rulft44/Rulft44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Simple Pizza](https://github.com/Rulft44/SimplePizza)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Minecraft modding**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on [Kontraption](https://github.com/illucc/Kontraption)
+
+- 💬 Ask me about **pizza!**
+
+- 📫 How to reach me **rulft44 (Discord)**
+
+- ⚡ Fun fact **I LOOOVE pizza! 🍕**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/rulft"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rulft" /></a></p><br><br>
