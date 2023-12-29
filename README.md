@@ -14,8 +14,20 @@
 - ⚡ Fun fact **I LOOOVE pizza! 🍕**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<h3 align="left">What I'm Learning:</h3>
+<p align="left"> 
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<h3 align="left">What I Use:</h3>
+<p align="left"> 
+
+![Static Badge](https://img.shields.io/badge/Blockbench-%231E93D9?style=for-the-badge&logo=blockbench&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=%23655561&color=white)
+![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellijidea)
+
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/rulft"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rulft" /></a></p><br><br>
