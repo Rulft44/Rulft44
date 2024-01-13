@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rulft</h1>
 <h3 align="center">A passionate art student!</h3>
 
-- 🔭 I’m currently working on [Simple Pizza](https://github.com/Rulft44/SimplePizza)
+- 🔭 I’m currently working on [Mahō & Books](https://github.com/Rulft44/Maho-and-Books)
 
 - 🌱 I’m currently learning **Minecraft modding**
 
