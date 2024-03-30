@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rulft</h1>
 <h3 align="center">A passionate art student!</h3>
 
-- 🔭 I’m currently working on [Mahō & Books](https://github.com/Rulft44/Maho-and-Books)
+- 🔭 I’m currently working on nothing atm
 
-- 🌱 I’m currently learning **Minecraft modding**
+- 🌱 I’m currently learning **GDScript** (Godot in general)
 
 - 👯 I’m looking to collaborate on [Kontraption](https://github.com/illucc/Kontraption)
 
 - 💬 Ask me about **pizza!**
 
-- 📫 How to reach me **rulft44 (Discord)**
+- 📫 How to reach me **rulft44 (Discord)** (I'm not that active tho)
 
 - ⚡ Fun fact **I LOOOVE pizza! 🍕**
 
