@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rulft</h1>
 <h3 align="center">A passionate art student!</h3>
 
-- 🔭 I’m currently working on nothing atm
+- 🔭 I’m currently working on a secret new minecraft mod
 
 - 🌱 I’m currently learning **GDScript** (Godot in general)
 
-- 👯 I’m looking to collaborate on [Kontraption](https://github.com/illucc/Kontraption)
+- 👯 I’m looking to collaborate on nothing atm
 
 - 💬 Ask me about **pizza!**
 
-- 📫 How to reach me **rulft44 (Discord)** (I'm not that active tho)
+- 📫 How to reach me **rulft44 (Discord)**
 
 - ⚡ Fun fact **I LOOOVE pizza! 🍕**
 
@@ -27,7 +27,3 @@
 ![Static Badge](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=%23655561&color=white)
 ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellijidea)
 
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/rulft"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rulft" /></a></p><br><br>
