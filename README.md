@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I LOOOVE pizza! 🍕**
 
+- https://rulft.carrd.co/
+
 
 
 <h3 align="left">What I'm Learning:</h3>
