@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a secret new minecraft mod
 
-- 🌱 I’m currently learning **GDScript** (Godot in general)
+- 🌱 I’m currently learning **Minecraft Modding** (Java)
 
 - 👯 I’m looking to collaborate on nothing atm
 
