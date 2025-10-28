@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rulft</h1>
-<h3 align="center">A passionate art student!</h3>
 
-- 🔭 I’m currently working on a secret new minecraft mod
+- 🔭 I’m currently working on Minecraft mods
 
 - 🌱 I’m currently learning **Minecraft Modding** (Java)
 
-- 👯 I’m looking to collaborate on nothing atm
+- 💬 Ask me about **PIZZA!**
 
-- 💬 Ask me about **pizza!**
-
-- 📫 How to reach me **rulft44 (Discord)**
+- 📫 How to reach me **rulft44** (Discord)
 
 - ⚡ Fun fact **I LOOOVE pizza! 🍕**
 
-- https://rulft.carrd.co/
+-  **[Check out my stuff](https://rulft.carrd.co/) !**
 
 
 
@@ -24,8 +21,8 @@
 
 <h3 align="left">What I Use:</h3>
 <p align="left"> 
-
-![Static Badge](https://img.shields.io/badge/Blockbench-%231E93D9?style=for-the-badge&logo=blockbench&logoColor=white)
+  
+![https://www.blockbench.net](https://img.shields.io/badge/Blockbench-%231E93D9?style=for-the-badge&logo=blockbench&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=aseprite&logoColor=%23655561&color=white)
 ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellijidea)
 
